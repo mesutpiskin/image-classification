@@ -11,7 +11,7 @@ Sadece run dosyasını çalıştır, hepsi bukadar. İhtiyacın olan her şey kl
   - Python 2.7
   - Libraries
     - caffe
-    - numy
+    - numpy
     - matplotlib
     - Tkinter
 
