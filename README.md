@@ -5,15 +5,17 @@ Just run the run file, that's all. Everything you need is here. If you want to u
 
 TR:
 Derin konvolüsyonel sinir ağları ile görüntü sınıflandırması. (Caffe Derin Öğrenme Kütüphanesi)
-Sadece çalıştır dosyasını çalıştır, hepsi bukadar. İhtiyacın olan her şey klasör içerisinde mevcut. Farklı modeller kullanmak isterseniz, CaffeClassification.py dosyasına ekleyin.
+Sadece run dosyasını çalıştır, hepsi bukadar. İhtiyacın olan her şey klasör içerisinde mevcut. Farklı modeller kullanmak isterseniz, CaffeClassification.py dosyasına ekleyin.
 
 ***Requirements***
-  - python 2.7
-  - libraries
-     - caffe
+  - Python 2.7
+  - Libraries
+    - caffe
     - numy
     - matplotlib
     - Tkinter
+
+**Youtube Video**
 
 ***
 **All Izz Well, Hell Yeah!**
