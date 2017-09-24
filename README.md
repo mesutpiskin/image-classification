@@ -1,4 +1,6 @@
-# Caffe - Conventional Neural Network ile Görüntü Sınıflandırma - Caffe - Image Classification with Conventional Neural Network
+# Caffe - Conventional Neural Network ile Görüntü Sınıflandırma
+
+# Caffe - Image Classification with Conventional Neural Network
 **EN:**
 Image classification with deep convolutional neural networks. (Caffe Deep Learning Framework)
 Just run the run file, that's all. Everything you need is here. If you want to use different models, just add it to your CaffeClassification.py file.
