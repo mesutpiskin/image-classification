@@ -22,7 +22,7 @@ Sadece run dosyasını çalıştır, hepsi bukadar. İhtiyacın olan her şey kl
 
 ```bash
 git clone https://github.com/mesutpiskin/CaffeClassification.git
-cd CaffeClassification
+cd image-classification
 python src/CaffeGUI.py
 ```
 
